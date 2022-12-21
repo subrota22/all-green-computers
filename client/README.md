@@ -86,9 +86,9 @@ https://github.com/subrota22/all-green-computers/tree/main/server
 
 ## Admin access
 
-adminEmail:subrota23@gmail.com
+adminEmail: subrota23@gmail.com
 
-adminPassword :subrotachandra@#
+adminPassword: subrotachandra@#
 
 ## My working process
 
