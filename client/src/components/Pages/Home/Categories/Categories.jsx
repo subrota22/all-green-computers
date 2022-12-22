@@ -77,7 +77,7 @@ const Categories = () => {
                 categories?.map(category =>
                   <div className="card w-96 cardbackground shadow-xl" key={category._id}>
                     <figure><img src={category?.productImage} alt="product"
-                      className='w-80 h-auto mt-3 rounded-md bg-slate-600' /></figure>
+                      className='w-80 h-auto mt-9 rounded-md bg-slate-600' /></figure>
                     <div className="card-body">
                       <h2 className="card-title"> Category : {category?.productCategory}</h2>
                       <p> {category?.description} </p>

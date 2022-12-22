@@ -53,10 +53,10 @@ const particlesLoaded = useCallback(async container => {
                 },
                 particles: {
                     color: {
-                        value: "#54FFDD",
+                        value: "#51D80E",
                     },
                     links: {
-                        color: "#ffffff",
+                        color: "#51D80E",
                         distance: 230,
                         enable: true,
                         opacity: 0.1,

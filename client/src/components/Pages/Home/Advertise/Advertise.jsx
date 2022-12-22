@@ -6,7 +6,6 @@ import { TiTick } from 'react-icons/ti';
 import HashLoader from 'react-spinners/HashLoader';
 import { toast } from 'react-toastify';
 import { AuthProvider } from '../../../../UserContext/UserContext';
-import WaveStart from '../../../Shares/Wave/Wave';
 import BookNow from '../../BookNow/BookNow';
 import "../Categories/Categories.css" ;
 const Advertise = () => {
@@ -95,10 +94,10 @@ const Advertise = () => {
                 advertiseItems?.map(advertise => advertise.advertise === true &&
                   <div className="card card-compact w-82 h-auto text-lg font-bold cardbackground 
                   hover:cursor-auto hover:translate-y-8  transition duration-1000 shadow-xl" key={advertise._id}>
-                    <WaveStart className="-mt-4"></WaveStart>
+      
                     <br /><br />
-                    <figure><img src={advertise.productImage} alt="advertise-item "
-                      className='h-96' /></figure>
+                    <figure><img src={advertise.productImage} alt="advertise-item"
+                      className='h-96 -mt-5 rounded-md' /></figure>
                     <div className="card-body text-lg font-bold">
                       <h2 className="card-title">{advertise.productName}</h2>
                       <p>Description : {advertise.description}</p>
