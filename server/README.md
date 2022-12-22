@@ -1,21 +1,22 @@
+## live website link
+
+https://green-computers-1a8a8.firebaseapp.com/
+
+## client side repository link
+
+https://github.com/subrota22/all-green-computers/tree/main/client
+
+## server side repository link
+
+https://github.com/subrota22/all-green-computers/tree/main/server
 
 
-## Live website and repository likns
 
-https://pc-shop-only.firebaseapp.com/
+## Admin access
 
-## Client side repository link
-https://github.com/programming-hero-web-course-4/b612-used-products-resale-clients-side-subrota22
+adminEmail: subrota23@gmail.com
 
-## Server side repository link
-
-https://github.com/programming-hero-web-course-4/b612-used-products-resale-server-side-subrota22
-
-## Admin email and password
-
-adminEmail: diposh@gmail.com 
-
-adminPassword : diposhchandra@#
+adminPassword: subrotachandra@#
 
 ## My working process
 
@@ -35,3 +36,8 @@ first , email and password authentication  , second Google authentication and th
 to build server side 
 
 7/ I am also used react query and axios to apply crud operation.  
+
+
+ ## NOTE : may be  sometime my server will be crashed # all-green-computers
+# all-green-computers
+# all-green-computers
